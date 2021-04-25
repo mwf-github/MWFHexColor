@@ -1,0 +1,6 @@
+framework module MWFHexColor {
+  umbrella header "MWFHexColor-umbrella.h"
+
+  export *
+  module * { export * }
+}

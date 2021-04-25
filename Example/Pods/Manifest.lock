@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - MWFHexColor (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - MWFHexColor (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  MWFHexColor:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  MWFHexColor: bfe570bdaf663c4066c564e7194892cdaac0bb6f
+
+PODFILE CHECKSUM: 495ca2fa7b5e7fa12bbe5635258892fa4916ed00
+
+COCOAPODS: 1.10.1
